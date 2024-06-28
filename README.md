@@ -76,25 +76,25 @@ I used it just to make the difference clear between ML and DL approaches regardi
 
 - **Bar Chart for Label Distribution**: Created a bar chart to visualize the frequency distribution of different labels in the dataset.
 
-![alt text](../Images/Bar-Chart-Label-Distribution.png)
+![alt text](Images/Bar-Chart-Label-Distribution.png)
 
 - **Grouped Bar Chart for Time of Day**: Created a bar chart to visualize the frequency distribution of the labels grouped by the time of the day: 'Day' and 'Night'.
 
-![alt text](../Images/Grouped-Bar-Chart-for-Time-of-Day.png)
+![alt text](Images/Grouped-Bar-Chart-for-Time-of-Day.png)
 
 - **Grouped Bar Chart for Weather Conditions**: Created a bar chart to visualize the frequency distribution of the labels grouped by the time of the day: 'Sunny', 'Cloudy', and 'Raining'.
 
-![alt text](../Images/Grouped-Bar-Chart-for-Weather-Conditions.png)
+![alt text](Images/Grouped-Bar-Chart-for-Weather-Conditions.png)
 
 ### Pie Chart :-
 
 - **Pie Chart for Label Distribution**: Generated a pie chart to represent the proportion of each surface type:'Asphalt', 'Concrete', 'Cobblestone', 'Dirt', and 'Grass'.
 
-![alt text](../Images/Pie-Chart-for-Surface-Type-Distribution.png)
+![alt text](Images/Pie-Chart-for-Surface-Type-Distribution.png)
 
 ### Label Co-Occurrence Matrix
 
-![alt text](../Images/co-occurrence-heatmap.png)
+![alt text](Images/co-occurrence-heatmap.png)
 
 ## 📈 Performance of the Models based on the Accuracy Scores
 
@@ -105,7 +105,7 @@ I used it just to make the difference clear between ML and DL approaches regardi
 |VGG16               | --% (Training Accuracy: ----) |
 |Logistic Regression | 10% (Training Accuracy: 0.58) |
 
-![alt text](../Images/CNN_ResNet_Accuracies.png)
+![alt text](Images/CNN_ResNet_Accuracies.png)
 
 ## 📢 Conclusion
 
